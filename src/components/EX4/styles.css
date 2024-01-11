@@ -1,0 +1,11 @@
+.magic{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    aspect-ratio: 1/1;
+    background: navy;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}

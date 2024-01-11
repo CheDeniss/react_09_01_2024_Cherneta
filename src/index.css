@@ -1,0 +1,106 @@
+img{
+    height: 200px;
+}
+
+.fotballclub-0{
+    display: inline-block;
+    background: cornflowerblue;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.about-0{
+    color: black;
+}
+
+.achievements-0{
+    color: black;
+}
+
+.comp-0{
+    color: black;
+}
+
+.fotballclub-1{
+    display: inline-block;
+    background: #ed6484;
+    border: 8px solid black;
+    border-radius: 22px;
+    padding: 20px;
+}
+
+.about-1{
+    color: mediumvioletred;
+}
+
+.achievements-1{
+    color: mediumvioletred;
+}
+
+.comp-1{
+    color: mediumvioletred;
+}
+
+.fotballclub-2{
+    display: inline-block;
+    background: #9fb77b;
+    border: 1px solid red;
+    border-radius: 0px;
+    padding: 25px;
+}
+
+.about-2{
+    color: blue;
+    font-weight: bold;
+}
+
+.achievements-2{
+    color: blue;
+    font-weight: bold;
+}
+
+.comp-2{
+    color: blue;
+    font-weight: bolder;
+}
+
+.fotballclub-3{
+    display: inline-block;
+    background: violet;
+    border: 1px solid silver;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.about-3{
+    color: orange;
+}
+
+.achievements-3{
+    color: orange;
+}
+
+.comp-3{
+    color: orange;
+}
+
+.fotballclub-4{
+    display: inline-block;
+    background: #e8b861;
+    border: 3px solid red;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.about-4{
+    color: green;
+}
+
+.achievements-4{
+    color: green;
+}
+
+.comp-4{
+    color: green;
+}
